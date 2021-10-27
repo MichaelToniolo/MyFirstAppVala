@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Your Name <you@email.com> -->
+
+<component type="desktop">
+    <id>com.github.Mz3ro_LoFi.MyFirstAppVala</id>
+    <metadata_license>CC0</metadata_license>
+    <name>Meu App</name>
+    <summary> Tagline</summary>
+    <description>
+    <p> Meu primeiro App VALA</p>
+    </description>
+</component>
