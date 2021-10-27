@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Hello Again
+GenericName=Hello World App
+Comment=WE CAN USE GTK
+Categories=Utility;Education;
+Exec=com.github.Mz3ro_LoFi.MyFirstAppVala
+Icon=com.github.Mz3ro_LoFi.MyFirstAppVala
+Terminal=false
+Type=Application
+Keywords=Hello;World;Example;
+
